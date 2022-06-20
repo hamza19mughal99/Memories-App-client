@@ -1,0 +1,30 @@
+.navbar-brand h3 {
+    color: #000;
+}
+
+.navbar {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+/* .nav-link button {
+    background: rgb(9, 96, 121);
+    background: linear-gradient(90deg, rgba(9, 96, 121, 1) 35%, rgba(0, 212, 255, 0.8578781854538691) 100%);
+    color: #fff;
+} */
+
+.nav-link button {
+    background: rgb(9, 96, 121);
+    background: linear-gradient(90deg, rgb(37 101 119 / 94%) 35%, rgba(0, 212, 255, 0.8578781854538691) 100%);
+    color: #fff;
+    border: none;
+    padding: 5px 35px;
+    font-weight: 600;
+}
+
+.dropdown-toggle{
+    margin-top: 5px;
+}
+
+a#navbarDropdownMenuLink {
+    color: #000;
+}

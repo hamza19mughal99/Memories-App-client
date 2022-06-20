@@ -1,0 +1,31 @@
+.search_section, .create_memory{
+    margin-top: 10px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.form-control:focus{
+    box-shadow: none !important;
+}
+
+.btn {
+    width: 100%;
+    background: rgb(9, 96, 121) !important;
+    background: linear-gradient(90deg, rgb(37 101 119 / 94%) 35%, rgba(0, 212, 255, 0.8578781854538691) 100%) !important;
+    font-weight: bold;
+    border: none;
+}
+
+.btn:focus{
+    box-shadow: none !important;
+}
+
+.create_memory p{
+    text-align: center;
+    font-weight: 600;
+}
+
+.file_input{
+    border: none !important;
+}
